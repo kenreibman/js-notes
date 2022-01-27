@@ -20,11 +20,11 @@ const companies= [
   */
 
   // forEach
-  /*
+  
   companies.forEach(function(company) {
       console.log(company);
   });
-  */
+ 
  
 
 
